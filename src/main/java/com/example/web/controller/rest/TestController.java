@@ -25,7 +25,7 @@ public class TestController {
 	 */
 	@RequestMapping(value = "/test2", method = RequestMethod.GET)
 	public ModelAndView configurationMonitor(ModelAndView mav) {
-		mav.setViewName("test");
+		mav.setViewName("center3");
 		return mav;
 	}
 

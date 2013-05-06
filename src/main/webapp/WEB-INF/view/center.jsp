@@ -52,7 +52,7 @@ td,th{
             <option>상위 API ID</option>
             <option>API 명</option></select> 
             
-            <input type="text" id="inputError">
+            <input class="input-xlarge"type="text" id="inputError">
             <span class="help-inline"></span> </div></div>
      </td>
 </tr>
@@ -73,7 +73,7 @@ td,th{
 	<label class="control-label" for="inputSuccess"></label>
 	<div class="controls">
 	
-   		<select class="span2">
+   		<select class="span3">
             <option>전체</option>
             <option>OpenPlatform</option>
             <option>Cyworld</option>
